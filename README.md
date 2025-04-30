@@ -2,7 +2,7 @@
 This is demo for Git &amp;&amp; Github class
 
 # Teacher
-Shraddha Khapra
+Shraddha Khaprarr
 
 # Student
-Delta-Student sss
+Delta-Student sssdd
